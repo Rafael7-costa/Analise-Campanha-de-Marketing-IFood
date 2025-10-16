@@ -54,22 +54,22 @@ Nesse contexto o analista de dados tem um papel fundamental para coletar, analis
 # INSIGTHS DA ANALISE
 
 ### A maioria dos clientes únicos vieram de fora das campanhas e consequentemente o faturamento também, entretanto houve uma melhor conversão de vendas e preço médio maior dentro das campanhas 
-![Insight 1](Insight-1.png)
+![Insight 1](img/Insight-1.png)
 
 ### Os clientes tendem a comprar mais quando tem desconto Principalmente de frete, pois o faturamento acompanha a quantidade de desconto
-![Insight 2](Insight-2.png)
+![Insight 2](img/Insight-2.png)
 
 ### No geral o canal com melhor desempenho foi a loja, seguida do site e catalogo
-![Insight 3](Insight-3.png)
+![Insight 3](img/Insight-3.png)
 
 ### Vinho e carne foram os produtos mais vendidos no geral 
-![Insight 4](Insight-4.png)
+![Insight 4](img/Insight-4.png)
 
 ### Clientes acima dos 30 anos compram mais principalmente entre 41 e 50 anos e a partir dessa idade consomem mais vinho
-![Insight 5](Insight-5.png)
+![Insight 5](img/Insight-5.png)
 
 ### Clientes Casados e sem filhos tendem a comprar mais 
-![Insight 6](Insight-6.png)
+![Insight 6](img/Insight-6.png)
 
 
 # RESULTADO/ RECOMENDAÇÃO
