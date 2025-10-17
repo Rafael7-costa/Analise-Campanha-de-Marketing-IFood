@@ -34,8 +34,8 @@ Nesse contexto o analista de dados tem um papel fundamental para coletar, analis
 ## Passo 3: Identificação das dimensões
 ## Passo 4: Levantar as Hipóteses para responder a pergunta de negócio 
 ## Passo 5: Priorização das hipóteses 
-	   - Verificar os dados disponíveis
-	   - Insights acionáveis 
+   - Verificar os dados disponíveis
+   - Insights acionáveis 
 
 
 # HIPOTESES ANALISADAS
