@@ -29,11 +29,11 @@ Nesse contexto o analista de dados tem um papel fundamental para coletar, analis
 
 # ESTRATEGIA DA SOLUÇAO
 
-## Passo 1: Definir as métricas 
-## Passo 2: Definição da coluna fato
-## Passo 3: Identificação das dimensões
-## Passo 4: Levantar as Hipóteses para responder a pergunta de negócio 
-## Passo 5: Priorização das hipóteses 
+#### Passo 1: Definir as métricas 
+#### Passo 2: Definição da coluna fato
+#### Passo 3: Identificação das dimensões
+#### Passo 4: Levantar as Hipóteses para responder a pergunta de negócio 
+#### Passo 5: Priorização das hipóteses 
    - Verificar os dados disponíveis
    - Insights acionáveis 
 
